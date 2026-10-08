@@ -1,3 +1,6 @@
 # ComicReader
-A Comic Reader for comics in png
+A comic reader for comics in png.
+
+For self-use and test.
+
 Not finished yet...
