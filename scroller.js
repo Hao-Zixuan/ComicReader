@@ -14,7 +14,7 @@ for (let currentPage = 1; currentPage <= totalPages; currentPage++) {
 
     let image = document.createElement("img");
 
-    image.src = "Images/" + comic + "/" + comic + "_" + String(currentPage).padStart(5, "0") + ".jpg";
+    image.src = "https://pub-85ba040220b84456a6f9053e874047b6.r2.dev/Images/" + comic + "/" + comic + "_" + String(currentPage).padStart(5, "0") + ".jpg";
 
     image.classList.add("comic-page");
 
