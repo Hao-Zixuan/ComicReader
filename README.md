@@ -1,2 +1,3 @@
 # ComicReader
 A Comic Reader for comics in png
+Not finished yet...
